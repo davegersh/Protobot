@@ -7,7 +7,7 @@ using RSG;
 
 namespace FirebaseClient {
     public static class Authentication {
-        private const string apiKey = "AIzaSyBDWAN455f2lr_byfy43X3s66bD2rIp_mQ";
+        private const string apiKey = "INSERT API KEY HERE";
 
         public static Action<AuthData> OnSignUp;
         public static Action<AuthData> OnLogin;
