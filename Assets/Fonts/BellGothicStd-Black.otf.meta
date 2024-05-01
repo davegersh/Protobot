@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e43e4b4111eac1e42879cc69b965a079
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bell Gothic Std
+  fontNames:
+  - Bell Gothic Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 137a30b3c60003b45ba4b72d1c84eafb, type: 3}
+  - {fileID: 12800000, guid: 48fa336cc71400a469dea6602fdf9e1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
